@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_active_record_extensions"
-  s.summary           = "SixArm Ruby Gem: ActiveRecord::Base class extensions for Ruby On Rails"
+  s.summary           = "SixArm.com » Ruby » ActiveRecord::Base class extensions for Ruby On Rails"
   s.version           = "1.0.4"
   s.author            = "SixArm"
   s.email             = "sixarm@sixarm.com"
