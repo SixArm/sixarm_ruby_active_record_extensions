@@ -1,6 +1,7 @@
 # SixArm.com » Ruby » <br> ActiveRecord Extensions for Ruby On Rails
 
-* Docs: <http://sixarm.com/sixarm_ruby_active_record_extensions/doc>
+* Doc: <http://sixarm.com/sixarm_ruby_active_record_extensions/doc>
+* Gem: <http://rubygems.org/gems/sixarm_ruby_active_record_extensions>
 * Repo: <http://github.com/sixarm/sixarm_ruby_active_record_extensions>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
 
