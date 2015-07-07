@@ -3,7 +3,7 @@
 Please see README
 =end
 
-require 'activerecord'
+require "activerecord"
 
 class ActiveRecord::Base
 
