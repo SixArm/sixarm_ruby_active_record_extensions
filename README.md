@@ -1,4 +1,4 @@
-SixArm.com → Ruby → <br> ActiveRecord Extensions for Ruby On Rails
+# SixArm.com → Ruby → <br> ActiveRecord Extensions for Ruby On Rails
 
 * Doc: <http://sixarm.com/sixarm_ruby_active_record_extensions/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_active_record_extensions>
